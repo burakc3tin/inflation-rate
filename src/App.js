@@ -71,7 +71,7 @@ export default function App() {
 
       <div style={{ paddingTop: 10, marginBottom: 10, borderColor: 'brown', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <input style={{ borderRadius:10,border:'none',padding:5, marginRight: 20, height: 50 }} type="month" id="start" name="start"
-          min="2016-08" max="2017-12" onChange={(e) => setDate(e.target.value)} />
+          min="1985-01" max="2018-12" onChange={(e) => setDate(e.target.value)} />
         <br />
 
         <select style={{borderRadius:10,border:'none',padding:5, height: 57, fontSize: 20, color: 'brown' }} name="" id="" onChange={(e) => setCountry(e.target.value)}>
