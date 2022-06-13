@@ -8,5 +8,9 @@ StatBureau API ile ülkelerin aylık bazda enflasyon oranlarının gösterilmesi
  `Axios`
  `Chart.js`
  
+ ### `Canlı Ortam`
+
+ [Canlıya Giriş
+](https://inflation-rate-brown.vercel.app/) 
  
  ![alt text](https://i.hizliresim.com/2wf2p56.png)
